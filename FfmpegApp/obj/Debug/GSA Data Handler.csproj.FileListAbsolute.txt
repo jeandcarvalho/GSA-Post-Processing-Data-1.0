@@ -1,0 +1,68 @@
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\ffmpeg.exe
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.exe.config
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.exe
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.pdb
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\GMap.NET.Core.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\MediaToolkit.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Form1.resources
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Forms.FormGSA.resources
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Properties.Resources.resources
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.SplitVideoForm.resources
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.GenerateResource.cache
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.CopyComplete
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.exe
+C:\Users\Jean\Desktop\1.0\ffmpeg-ui-master\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.pdb
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\ffmpeg.exe
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.exe.config
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.exe.manifest
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.application
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.exe
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\FfmpegApp.pdb
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\GMap.NET.Core.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\MediaToolkit.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Form1.resources
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Forms.FormGSA.resources
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.Properties.Resources.resources
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.SplitVideoForm.resources
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.GenerateResource.cache
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.exe.manifest
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.application
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\GSA Data Handler.csproj.CopyComplete
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.exe
+C:\Users\Jean\Desktop\1.0\GSA Data Handler\apps\FfmpegApp\FfmpegApp\obj\Debug\FfmpegApp.pdb
