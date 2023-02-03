@@ -1,5 +1,6 @@
- GSA Post-Processing DATA: Applies multiple filters to the database (.log), then uses the same filters to cut parts of the recordings (.avi).
-
+ GSA Post-Processing DATA: Aplica vários filtros ao banco de dados (.log), em seguida usa os mesmos filtros para cortar partes das gravações (.avi).
+ 
+ Link para o banco de dados(SP_NIGHT) usado para testar a versão 1.0: https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
 _______________________________________________________________________
 
 Instruções para uso.
@@ -32,8 +33,11 @@ Instruções para uso.
 OBS: Caso alguma ação no programa resulte no travamento do mesmo, um botão "Reset" se encontra no canto inferior esquerdo da tela, e ao ser acionado restart a aplicação.
 
 _______________________________________________________________________________________________________________________________________________________________
+ GSA Post-Processing DATA: Applies multiple filters to the database (.log), then uses the same filters to cut parts of the recordings (.avi).
+ 
+ Link to Database used to test version 1.0(SP_NIGHT): https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
 
-Intructions for use.
+ Intructions for use.
 
 1. Open GSA Post-Processing.exe.
 
