@@ -21,7 +21,7 @@ Instruções para uso.
   - Em "Day/Night" selecione:  Night.
   - Em "Weather" selecione:  Sunny (Should be changed in the future for "Clear Sky").
   - Em "Driver" selecione:  Hugo.
----   ---   ---   ---   ---   ---   ---   
+. 
  - Em "Road Numbers" o usuario pode escolher entre 1 até 5 estradas (Pois SP_NIGHT se limita a esses dados).
  - Em "Volume of Traffic" o usuario pode escolher entre Free Flow ou Congested.
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
   - "Day/Night" select: Night.
   - "Weather" select: Sunny (Must be changed to "Clear Sky" in the future).
   - "Driver" select: Hugo.
----   ---   ---   ---   ---   ---  
+.
  - "Road Numbers" The User can choose between 1, 2, 3, 4 or 5 roads (Because SP_NIGHT is limited to this data).
  - "Traffic Volume" The User can choose between Free Flow or Congested.
 
