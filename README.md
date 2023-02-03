@@ -15,12 +15,12 @@ Instruções para uso.
    
 4.1. O banco de dados (SP_NIGHT) tem 1 hora de gravação e contem valores fixos em algumas das condições, portanto, a seguir iremos auxiliar o preenchimento das condições e quais campos devem ser selecionados e quais serão escolhidos pelo usuario.
    
- Em "Road Type" selecione:  Urban
- Em "Road Conditions" selecione:  Clean
- Em "Visibility" selecione:  Clean
- Em "Day/Night" selecione:  Night
- Em "Weather" selecione:  Sunny (Should be changed in the future for "Clear Sky")
- Em "Driver" selecione:  Hugo
+ Em "Road Type" selecione:  Urban.
+ Em "Road Conditions" selecione:  Clean.
+ Em "Visibility" selecione:  Clean.
+ Em "Day/Night" selecione:  Night.
+ Em "Weather" selecione:  Sunny (Should be changed in the future for "Clear Sky").
+ Em "Driver" selecione:  Hugo.
 
  - Em "Road Numbers" o usuario pode escolher entre 1 até 5 estradas (Pois SP_NIGHT se limita a esses dados).
  - Em "Volume of Traffic" o usuario pode escolher entre Free Flow ou Congested.
@@ -50,12 +50,12 @@ ________________________________________________________________________________
    
 4.1. The database (SP_NIGHT) has 1 hour of recording and contains fixed values ​​in some of the conditions.
    
-  "Road Type" select: Urban
-  "Road Conditions" select: Clean
-  "Visibility" select: Clear
-  "Day/Night" select: Night
-  "Weather" select: Sunny (Must be changed to "Clear Sky" in the future)
-  "Driver" select: Hugo
+  "Road Type" select: Urban.
+  "Road Conditions" select: Clean.
+  "Visibility" select: Clear.
+  "Day/Night" select: Night.
+  "Weather" select: Sunny (Must be changed to "Clear Sky" in the future).
+  "Driver" select: Hugo.
 
  - "Road Numbers" The User can choose between 1, 2, 3, 4 or 5 roads (Because SP_NIGHT is limited to this data).
  - "Traffic Volume" The User can choose between Free Flow or Congested.
