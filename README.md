@@ -1,7 +1,7 @@
  GSA Post-Processing DATA: Aplica vários filtros ao banco de dados (.log), em seguida usa os mesmos filtros para cortar partes das gravações (.avi).
  
- Link para o banco de dados(SP_NIGHT) usado para testar a versão 1.0: https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
-_______________________________________________________________________
+ Link para o banco de dados(SP_NIGHT) usado para testar a versão 1.0:
+  https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
 
 Instruções para uso.
 
@@ -35,7 +35,8 @@ OBS: Caso alguma ação no programa resulte no travamento do mesmo, um botão "R
 _______________________________________________________________________________________________________________________________________________________________
  GSA Post-Processing DATA: Applies multiple filters to the database (.log), then uses the same filters to cut parts of the recordings (.avi).
  
- Link to Database used to test version 1.0(SP_NIGHT): https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
+ Link to Database used to test version 1.0(SP_NIGHT):
+  https://drive.google.com/file/d/1YiVfY52C0SP1mdVOMUuIbkx4TafYXIK2/view?usp=sharing
 
  Intructions for use.
 
