@@ -21,7 +21,7 @@ Instruções para uso.
   - Em "Day/Night" selecione:  Night.
   - Em "Weather" selecione:  Sunny (Should be changed in the future for "Clear Sky").
   - Em "Driver" selecione:  Hugo.
-______________________________________
+---   ---   ---   ---   ---   ---   ---   
  - Em "Road Numbers" o usuario pode escolher entre 1 até 5 estradas (Pois SP_NIGHT se limita a esses dados).
  - Em "Volume of Traffic" o usuario pode escolher entre Free Flow ou Congested.
 
@@ -32,6 +32,9 @@ ______________________________________
 
 OBS: Caso alguma ação no programa resulte no travamento do mesmo, um botão "Reset" se encontra no canto inferior esquerdo da tela, e ao ser acionado restart a aplicação.
 
+
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________
  GSA Post-Processing DATA: Applies multiple filters to the database (.log), then uses the same filters to cut parts of the recordings (.avi).
  
@@ -56,7 +59,7 @@ ________________________________________________________________________________
   - "Day/Night" select: Night.
   - "Weather" select: Sunny (Must be changed to "Clear Sky" in the future).
   - "Driver" select: Hugo.
-__________________________________
+---   ---   ---   ---   ---   ---  
  - "Road Numbers" The User can choose between 1, 2, 3, 4 or 5 roads (Because SP_NIGHT is limited to this data).
  - "Traffic Volume" The User can choose between Free Flow or Congested.
 
