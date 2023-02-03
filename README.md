@@ -29,7 +29,7 @@ Instruções para uso.
 
 5. Se o numero de cortes achados for maior que 0, pode clicar no botão "Start" e iniciar a extração de videos do DataBase SP_NIGHT
 
-6 - Quando o aviso "Process complete!" surgir, os novos arquivos estarão prontos em "output folder".
+6. Quando o aviso "Process complete!" surgir, os novos arquivos estarão prontos em "output folder".
 
 
 OBS: Caso alguma ação no programa resulte no travamento do mesmo, um botão "Reset" se encontra no canto inferior esquerdo da tela, e ao ser acionado restart a aplicação.
@@ -69,6 +69,6 @@ ________________________________________________________________________________
 
 5. If the number of cuts found is above 0, you can click on the "Start" button and start the selection of videos from the DataBase SP_NIGHT
 
-6 - When the warning "Process complete!" appears, the new files will be ready in the "output folder".
+6. When the warning "Process complete!" appears, the new files will be ready in the "output folder".
 
 NOTE: In case any action in the program results in crash, a "Reset" button is found in the lower left corner of the screen, and when activated, restart the application and the settings.
