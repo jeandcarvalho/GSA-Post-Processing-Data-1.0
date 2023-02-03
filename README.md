@@ -21,9 +21,11 @@ Instruções para uso.
   - Em "Day/Night" selecione:  Night.
   - Em "Weather" selecione:  Sunny (Should be changed in the future for "Clear Sky").
   - Em "Driver" selecione:  Hugo.
-. 
- - Em "Road Numbers" o usuario pode escolher entre 1 até 5 estradas (Pois SP_NIGHT se limita a esses dados).
- - Em "Volume of Traffic" o usuario pode escolher entre Free Flow ou Congested.
+  
+4.2. Nas proximas condições o usúario pode escolher em:
+
+  - Em "Road Numbers" o usuario pode escolher entre 1 até 5 estradas (Pois SP_NIGHT se limita a esses dados).
+  - Em "Volume of Traffic" o usuario pode escolher entre Free Flow ou Congested.
 
 5. Se o numero de cortes achados for maior que 0, pode clicar no botão "Start" e iniciar a extração de videos do DataBase SP_NIGHT
 
@@ -59,9 +61,11 @@ ________________________________________________________________________________
   - "Day/Night" select: Night.
   - "Weather" select: Sunny (Must be changed to "Clear Sky" in the future).
   - "Driver" select: Hugo.
-.
- - "Road Numbers" The User can choose between 1, 2, 3, 4 or 5 roads (Because SP_NIGHT is limited to this data).
- - "Traffic Volume" The User can choose between Free Flow or Congested.
+  
+4.2. In the nexts conditions the user can choose in:
+
+  - "Road Numbers" The User can choose between 1, 2, 3, 4 or 5 roads (Because SP_NIGHT is limited to this data).
+  - "Traffic Volume" The User can choose between Free Flow or Congested.
 
 5. If the number of cuts found is above 0, you can click on the "Start" button and start the selection of videos from the DataBase SP_NIGHT
 
